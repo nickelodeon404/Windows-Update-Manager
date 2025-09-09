@@ -1,1 +1,1 @@
-This tool allows you to pause and resume the windows update in Windows 10/11
+This tool allows you to permanently disable and resume the windows update in Windows 10/11
